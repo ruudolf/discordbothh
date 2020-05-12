@@ -5,4 +5,5 @@ Koitin tehdä hyvän bottipohjan jolle voin tulevaisuudessa kehittää lisää o
 
 Tämänhetkiset ominaisuudet:  
 -Botilla voi kaverini voivat tarkastella kuka heistä on voittanut viimeisimpänsä Dota2 pelin  
--Viestien poisto
+-Viestien poisto  
+-Cogien avulla botin ominaisuuksien (komentojen yms.) muokkaaminen/lisääminen ilman botin uudelleenkäynnistämistä
